@@ -1,0 +1,17 @@
+Install Express
+npm install express
+................................
+Install nodemon
+npm install --save-dev nodemon
+
+In package.JSON
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+................................
+npm install mongoose
+
+for env file
+npm install dotenv
+................................
+
